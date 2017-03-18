@@ -80,7 +80,7 @@ public class Catalog {
 
 	}
 
-	// from XMLreader
+
 	private static Catalog ReadXMLFile() {
 
 		Catalog cat = null;
